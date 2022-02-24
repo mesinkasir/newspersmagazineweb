@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Thu, 24 Feb 2022 17:18:32 +0700</pubDate><title><![CDATA[Perss Relase !!]]></title><url><![CDATA[index]]></url><meta><![CDATA[https://axcora.com/getaxcoracms - get axcora cms modern blast fast website SEO]]></meta><metad><![CDATA[Build with get axcora cms - modern cms website blast and fast without databased , download on https://axcora.com/geataxcoracms]]></metad><menu><![CDATA[Home]]></menu><menuOrder><![CDATA[1]]></menuOrder><menuStatus><![CDATA[Y]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h3 class=&quot;pb-4 mb-4 fst-italic border-bottom&quot;&gt;From the Firehose&lt;/h3&gt;
+
+&lt;article class=&quot;blog-post&quot;&gt;
+&lt;h2 class=&quot;blog-post-title&quot;&gt;Sample blog post&lt;/h2&gt;
+
+&lt;p class=&quot;blog-post-meta&quot;&gt;January 1, 2021 by &lt;a href=&quot;#&quot;&gt;Mark&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This blog post shows a few different types of content that’s supported and styled with Bootstrap. Basic typography, lists, tables, images, code, and more are all supported as expected.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;img-fluid&quot; src=&quot;http://localhost:666/gets/perss/data/uploads/pers2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We&#039;ll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.&lt;/p&gt;
+
+&lt;h2&gt;Blockquotes&lt;/h2&gt;
+
+&lt;p&gt;This is an example blockquote in action:&lt;/p&gt;
+
+&lt;blockquote class=&quot;blockquote&quot;&gt;
+	&lt;p&gt;Quoted text goes here.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We&#039;ll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;img-fluid&quot; src=&quot;http://localhost:666/gets/perss/data/uploads/pers3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Example lists&lt;/h3&gt;
+
+&lt;p&gt;This is some additional paragraph placeholder content. It&#039;s a slightly shorter version of the other highly repetitive body text used throughout. This is an example unordered list:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;First list item&lt;/li&gt;
+	&lt;li&gt;Second list item with a longer description&lt;/li&gt;
+	&lt;li&gt;Third list item to close it out&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And this is an ordered list:&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;First list item&lt;/li&gt;
+	&lt;li&gt;Second list item with a longer description&lt;/li&gt;
+	&lt;li&gt;Third list item to close it out&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And this is a definition list:&lt;/p&gt;
+
+&lt;dl&gt;
+	&lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+	&lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+	&lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+	&lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+	&lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+	&lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+	&lt;dd&gt;&amp;nbsp;&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2&gt;&lt;img alt=&quot;&quot; class=&quot;img-fluid&quot; src=&quot;http://localhost:666/gets/perss/data/uploads/screenshot-2022-02-18-at-16-44-37-axcora-news-update.png&quot; /&gt;&lt;/h2&gt;
+
+&lt;h2&gt;Inline HTML elements&lt;/h2&gt;
+
+&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+	&lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+	&lt;li&gt;Citations, like &lt;cite&gt;— Mark Otto&lt;/cite&gt;, should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+	&lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+	&lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+
+&lt;h2&gt;Heading&lt;/h2&gt;
+
+&lt;p&gt;This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We&#039;ll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.&lt;/p&gt;
+
+&lt;h3&gt;Sub-heading&lt;/h3&gt;
+
+&lt;p&gt;This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We&#039;ll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Example code block&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is some additional paragraph placeholder content. It&#039;s a slightly shorter version of the other highly repetitive body text used throughout.&lt;/p&gt;
+&lt;/article&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

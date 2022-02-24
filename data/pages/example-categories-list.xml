@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Thu, 24 Feb 2022 12:32:15 +0700</pubDate><title><![CDATA[Example Categories List]]></title><url><![CDATA[example-categories-list]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Example Categories List]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;p&gt;You can list all post categories with url link in here. example categories list.&lt;/p&gt;
+
+&lt;ul class=&quot;list-group list-group-flush&quot;&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=example-article-long&quot;&gt;Example Categories post lorep&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=example-article-post&quot;&gt;Example Categories post ipsum&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=privacy&quot;&gt;Example Categories post dolor&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=about&quot;&gt;Example Categories post si&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=contact&quot;&gt;Example Categories post amet&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=example-article-long&quot;&gt;Example Categories post lorep&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=example-article-post&quot;&gt;Example Categories post ipsum&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=privacy&quot;&gt;Example Categories post dolor&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=about&quot;&gt;Example Categories post si&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=contact&quot;&gt;Example Categories post amet&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=example-article-long&quot;&gt;Example Categories post lorep&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=example-article-post&quot;&gt;Example Categories post ipsum&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=privacy&quot;&gt;Example Categories post dolor&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=about&quot;&gt;Example Categories post si&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=contact&quot;&gt;Example Categories post amet&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=example-article-long&quot;&gt;Example Categories post lorep&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=example-article-post&quot;&gt;Example Categories post ipsum&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=privacy&quot;&gt;Example Categories post dolor&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=about&quot;&gt;Example Categories post si&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;list-group-item&quot;&gt;&lt;a href=&quot;index.php?id=contact&quot;&gt;Example Categories post amet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>
