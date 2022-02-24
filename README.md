@@ -4,7 +4,7 @@ A new generation get simpe cms axcora tech for develope website project powerful
 
 No need a database for installation , make your website very fast and SEO friendly.
 
-News magazine themes template website apps. Modern design with boostrap 5 + fontawesome
+News magazine themes template website apps. Modern design with boostrap 5
 --
 ![free website template news magazine gratis](news.jpg)
 
