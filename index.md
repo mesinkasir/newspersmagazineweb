@@ -47,8 +47,9 @@ Back end setting
 
 Backend
 + Page for create new post article content you can edit and delete too.
-+ File menu for upload media manager
++ File menu for upload media manager.
 + Setting for change password and others.
++ Template for change and update themes display.
 + SEO : automaticly generate meta title , description , facebook, twitter.
 
 ----
